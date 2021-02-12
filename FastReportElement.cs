@@ -3,7 +3,7 @@
 //FileType: Visual C# Source file
 //Author : Kirati Petkong
 //Copy Rights : (c) 2021 Software & Scale Engineering Co.,Ltd
-//Description : Fast Report Element Redirect instead from current solution.
+//Description : Fast Report Element object Redirect fix use for instead from problem offical solution.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
